@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/selenophile-assignment/static/css/main.b74c6a33.css",
+    "main.js": "/selenophile-assignment/static/js/main.05495ce6.js",
+    "static/media/image2.jpg": "/selenophile-assignment/static/media/image2.0f7567ea26381ee51a89.jpg",
+    "static/media/logo.png": "/selenophile-assignment/static/media/logo.f2398e97ac05f86c8d8f.png",
+    "static/media/final.png": "/selenophile-assignment/static/media/final.29e95eb9dbe4fca0552d.png",
+    "static/media/package.png": "/selenophile-assignment/static/media/package.93bef2d265c2d11e77e4.png",
+    "static/media/img3.png": "/selenophile-assignment/static/media/img3.840fec2614b78a0d6bbd.png",
+    "static/media/img1.png": "/selenophile-assignment/static/media/img1.ebd6f1e9fcaeb39e0031.png",
+    "static/media/community-removebg-preview.png": "/selenophile-assignment/static/media/community-removebg-preview.07b32f4729db7bd09753.png",
+    "static/media/dustbeen.png": "/selenophile-assignment/static/media/dustbeen.3d1864e7a8fbdfe0b404.png",
+    "static/media/women.png": "/selenophile-assignment/static/media/women.c46cbaa0ba919393595d.png",
+    "static/media/men (1).png": "/selenophile-assignment/static/media/men (1).728c542a44d4982f7f6d.png",
+    "static/media/ss.png": "/selenophile-assignment/static/media/ss.62c594a5ff37b3ca4e70.png",
+    "static/media/map.png": "/selenophile-assignment/static/media/map.89c3eb073b39d8766afc.png",
+    "static/media/delivery-removebg-preview.png": "/selenophile-assignment/static/media/delivery-removebg-preview.c5325f57d0db1913ca82.png",
+    "static/media/efficiency-removebg-preview.png": "/selenophile-assignment/static/media/efficiency-removebg-preview.e7c7e3b00d88b765064b.png",
+    "static/media/chatri-removebg-preview.png": "/selenophile-assignment/static/media/chatri-removebg-preview.49e132969e4fe9dc0858.png",
+    "static/media/conluo-removebg-preview.png": "/selenophile-assignment/static/media/conluo-removebg-preview.b431f9270946cd4e2a23.png",
+    "index.html": "/selenophile-assignment/index.html",
+    "main.b74c6a33.css.map": "/selenophile-assignment/static/css/main.b74c6a33.css.map",
+    "main.05495ce6.js.map": "/selenophile-assignment/static/js/main.05495ce6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b74c6a33.css",
+    "static/js/main.05495ce6.js"
+  ]
+}
